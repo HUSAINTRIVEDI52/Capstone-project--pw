@@ -473,4 +473,7 @@ You’ve successfully deployed a **production-grade DevOps Accelerator**, with:
 
 *Happy DevOps-ing!*
 "# Capstone-project--pw" 
+<<<<<<< HEAD
 "# Capstone-project--pw" 
+=======
+>>>>>>> 38af0f20c66c1a3ce9db571134a1c179e3994b96
